@@ -1,0 +1,23 @@
+{
+  "name": "tm-react-native-datepicker",
+  "version": "1.0.0",
+  "description": "太美自定义时间组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHub-lrb/tm-react-native-datepicker.git"
+  },
+  "keywords": [
+    "date",
+    "picker"
+  ],
+  "author": "tm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHub-lrb/tm-react-native-datepicker/issues"
+  },
+  "homepage": "https://github.com/GitHub-lrb/tm-react-native-datepicker#readme"
+}
